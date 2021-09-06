@@ -1,0 +1,25 @@
+$ pkg update && upgrade
+
+$ pkg install python
+
+$ pkg install git
+
+$ pip install bs4
+
+$ pip install requests
+
+$ pip install mechanize
+
+$ pip install futures
+
+$ pkg install git
+
+$ rm -rf XD
+
+$ git clone https://github.com/PIRMAN-XD/PIRMAN-XD
+
+$ cd XD
+
+$ python prem.py
+
+✭ Warning ✭
