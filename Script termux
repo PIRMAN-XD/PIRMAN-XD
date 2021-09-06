@@ -14,11 +14,11 @@ $ pip install futures
 
 $ pkg install git
 
-$ rm -rf XD
+$ rm -rf BMBF
 
 $ git clone https://github.com/PIRMAN-XD/PIRMAN-XD
 
-$ cd XD
+$ cd BMBF
 
 $ python prem.py
 
